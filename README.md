@@ -5,4 +5,7 @@ Ilya Dorozhkin
 change in file1
 =======
 change in Web1
+
+CHANGES BY LEGEND
+©VIKTOR GRYTSKOV
 >>>>>>> 03282964d627987477b9299dface334bb9c2b8d8
